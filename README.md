@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ky54v8kp4mc0qgre?svg=true)](https://ci.appveyor.com/project/vladvolkov71/ajs-homeworks-5-oop)
